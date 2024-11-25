@@ -7,5 +7,4 @@ package-lock.json
 # datasets
 *.json
 
-# k6 binary
-k6
+**/.DS_Store
