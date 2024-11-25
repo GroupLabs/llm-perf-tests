@@ -1,0 +1,11 @@
+node_modules
+bun.lockb
+package.json
+package-lock.json
+
+
+# datasets
+*.json
+
+# k6 binary
+k6
